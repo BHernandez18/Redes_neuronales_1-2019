@@ -1,2 +1,3 @@
 # Ignorar las imagenes del dataset Kaggle
 *.jpg
+*.jpeg
